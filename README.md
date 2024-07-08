@@ -98,3 +98,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 LinkedIn for providing a platform to scrape job postings and profile information.
 Selenium for the web automation framework.
 BeautifulSoup for parsing HTML and XML documents.
+
+
+
+## Instructions for Adding Images:
+
+Take screenshots of the output or intermediate steps in your script.
+Save these images in a directory within your project, such as /images.
+Update the ![Description](path/to/image) lines in the README to point to the correct paths.
+For example:
+
+![Job Listings Output](images/job_listings_output.png)
+![Profile Data Output](images/profile_data_output.png)
+
+
